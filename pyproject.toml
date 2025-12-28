@@ -9,7 +9,10 @@ description = "Implements algebraic structures from abstract algebra"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { file = "LICENSE.md" }
-authors = [{ name = "Samuel Solomon" }]
+authors = [{ name = "Sammy Suliman" }]
+dependencies = [
+  "PyYAML>=6.0"
+]
 
 [project.urls]
 Homepage = "https://github.com/SammySuliman/ModAlg"
